@@ -1,0 +1,24 @@
+.register{
+    margin-top: 12%;
+    padding: 20px;
+    box-shadow: 3px 3px 10px #445566;
+    font-weight: 600;
+    margin-left: 5%;
+    border-top-left-radius: 90px;
+    border-bottom-right-radius: 90px;
+    background-color: white;
+    color: black;
+}
+.register button{
+    margin-top: 10px;
+    width: 100px;
+}
+.register input{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+body{
+      background-image: url("images/back1.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
